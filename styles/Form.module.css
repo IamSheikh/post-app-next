@@ -1,0 +1,26 @@
+.form {
+  text-align: center;
+}
+
+.form_group {
+  margin: 1rem;
+}
+
+.form_label {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.form_input {
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+
+.btn {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}

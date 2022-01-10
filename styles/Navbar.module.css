@@ -1,0 +1,21 @@
+.navbar {
+  background-color: black;
+  color: white;
+}
+
+.links_container {
+  display: flex;
+}
+
+.links {
+  list-style-type: none;
+  padding: 1rem;
+}
+
+.link {
+  margin: 1rem;
+  border: none;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+}
